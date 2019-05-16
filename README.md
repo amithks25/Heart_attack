@@ -16,7 +16,7 @@ we have used 3 techniques to evaluate how well the system approches and also on 
 4)Building the model:
     a) Logistic regression : Logistic regression is  appropriate regression analysis to conduct when the dependent variable is dichotomous.Also we are able to say stats from the co-efficients.
     b)Neural Network: Neural Network have the ability to learn and improve every time in predicting an output.we used feed forward neural network.The purpose of a neural network is to learn to recognize patterns in data.
-    c) Random Forest tree classifier:It is an ensemble method where it creates number of decision tree and output the means of prediction of all tree.It avoids over-fitting.
+    c) Random Forest tree classifier:It is an ensemble method where it creates number of decision tree and output the means of prediction of all tree.It avoids over-fitting. 
     
 5)Evaluating Model:
   Finally Table is created of logistic,Neural,RandomForestTree with each having values of accuracy ,sensitivity,specificity.
